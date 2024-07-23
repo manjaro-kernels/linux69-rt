@@ -20,4 +20,3 @@ jobs:
           boxit-target: ${{ secrets.BOXIT_TARGET }}
           ssh-key: ${{ secrets.SSH_PACKAGE_CI }}
           bxt-api-key: ${{ secrets.BXT_API_KEY }}
-          bxt-api-key: ${{ secrets.BXT_API_KEY }}
